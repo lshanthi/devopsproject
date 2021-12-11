@@ -3,17 +3,17 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>maven-web-application</artifactId>
+	<artifactId>spring-petclinic</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>2.3.1.BUILD-SNAPSHOT</version>
 	
 	<name>maven-web-application</name>
 
-	<description>Maven Web Project for Java Project</description>
+	<description>spring-petclinic-2.3.1.BUILD-SNAPSHOT</description>
 
 	<organization>
-		<name>Mithun Technologies</name>
-		<url>http://mithuntechnologies.com/</url>
+		<name>spring</name>
+		<url>https://www.ncirl.ie/</url>
 	</organization>
 
 	<properties>
@@ -110,7 +110,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-application</finalName>
+		<finalName>spring-petclinic-2.3.1.BUILD-SNAPSHOT</finalName>
 		
 		<plugins>
 			<plugin>
